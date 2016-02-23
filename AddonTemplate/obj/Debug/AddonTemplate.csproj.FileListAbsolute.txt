@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Debug\AddonTemplate.exe.config
+C:\Users\user\Desktop\AA\AddonTemplate\bin\Debug\AddonTemplate.exe.config
